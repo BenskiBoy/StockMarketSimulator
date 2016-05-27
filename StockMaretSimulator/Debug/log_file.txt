@@ -1,0 +1,86 @@
+Logger Begin	
+Number of Traders	10
+Number of Companies	10
+Number of Shares per Company	100000
+Tick Time (ms)	5000
+
+failsafe thread started
+
+
+New Tick: 1
+
+Finished News generation for Tick:	1
+Generation Time:	0s
+
+Finished Industry loop for Tick:	1
+Loop Time:	0.148s
+
+Finished Public loop for Tick: 	1
+Loop Time: 	3.412s
+
+New Tick: 2
+
+Finished News generation for Tick:	2
+Generation Time:	0s
+
+Finished Public loop for Tick: 	2
+Loop Time: 	0.001s
+
+Finished Industry loop for Tick:	2
+Loop Time:	0.039s
+
+New Tick: 3
+
+Finished News generation for Tick:	3
+Generation Time:	0s
+
+Finished Industry loop for Tick:	3
+Loop Time:	0.016s
+
+Finished Public loop for Tick: 	3
+Loop Time: 	0.002s
+
+New Tick: 4
+
+Finished News generation for Tick:	4
+Generation Time:	0s
+
+Finished Industry loop for Tick:	4
+Loop Time:	0.031s
+
+Finished Public loop for Tick: 	4
+Loop Time: 	0.002s
+
+New Tick: 5
+
+Finished Public loop for Tick: 	5
+Loop Time: 	0.001s
+
+Finished News generation for Tick:	5
+Generation Time:	0s
+
+Finished Industry loop for Tick:	5
+Loop Time:	0.018s
+
+New Tick: 6
+
+Finished News generation for Tick:	6
+Generation Time:	0s
+
+Finished Public loop for Tick: 	6
+Loop Time: 	0.001s
+
+Finished Industry loop for Tick:	6
+Loop Time:	0.05s
+
+New Tick: 7
+
+Finished News generation for Tick:	7
+Generation Time:	0s
+
+Finished Public loop for Tick: 	7
+Loop Time: 	0.019s
+
+Finished Industry loop for Tick:	7
+Loop Time:	0.045s
+

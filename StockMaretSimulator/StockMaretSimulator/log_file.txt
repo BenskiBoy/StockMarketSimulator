@@ -1,0 +1,22 @@
+Logger Begin	
+Number of Traders	10
+Number of Companies	10
+Number of Shares per Company	100000
+Tick Time (ms)	2500
+
+failsafe thread started
+
+
+New Tick: 1
+
+Finished News generation for Tick:	1
+Generation Time:	0.001s
+
+Finished Industry loop for Tick:	1
+Loop Time:	0.273s
+
+FAILURE FOUND IN FAILSAFE!
+ABORT!
+
+New Tick: 2
+

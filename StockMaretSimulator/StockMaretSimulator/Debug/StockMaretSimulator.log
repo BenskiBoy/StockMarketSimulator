@@ -1,0 +1,32 @@
+﻿  Company.cpp
+  Generating Code...
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\company.cpp(45): warning C4715: 'Company::buyShare': not all control paths return a value
+  Compiling...
+  main.cpp
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\trader.h(21): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  World.cpp
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\world.cpp(25): warning C4101: 'end_time': unreferenced local variable
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\world.cpp(78): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\world.cpp(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  UI.cpp
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\trader.h(21): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Trader.cpp
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\trader.h(21): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\trader.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\trader.cpp(63): warning C4018: '<': signed/unsigned mismatch
+  Tick.cpp
+  Public.cpp
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\trader.h(21): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\public.cpp(35): warning C4101: 'end_time': unreferenced local variable
+  News.cpp
+  Logger.cpp
+  Industry.cpp
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\industry.cpp(24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\industry.cpp(39): warning C4101: 'end_time': unreferenced local variable
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\industry.cpp(142): warning C4018: '<': signed/unsigned mismatch
+  Failsafe.cpp
+  Generating Code...
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\industry.cpp(136): warning C4715: 'Industry::generateRandomCompanyType': not all control paths return a value
+c:\users\benjamin\dropbox\uni stuff\swe30001-real time programming\libtcodtest\libtcodtest\world.cpp(93): warning C4715: 'World::sudoNormalDistribution': not all control paths return a value
+  StockMaretSimulator.vcxproj -> C:\Users\Benjamin\Dropbox\Uni Stuff\SWE30001-Real Time Programming\StockMaretSimulator\Debug\StockMaretSimulator.exe
+  StockMaretSimulator.vcxproj -> C:\Users\Benjamin\Dropbox\Uni Stuff\SWE30001-Real Time Programming\StockMaretSimulator\Debug\StockMaretSimulator.pdb (Partial PDB)
